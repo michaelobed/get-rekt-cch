@@ -4,7 +4,7 @@ Get Rekt is a customisable, turn-based fighting game that grows whenever I have 
 
 ## Okay yeah great don't care I want to play! 😆
 Alright, alright!
-See the _Releases_ heading on the right? Click on the latest release, then under _Assets_, choose the ZIP folder that's right for you (win for Windows, mac for Mac, obviously). Download, unzip and you're ready to play!
+See the _Releases_ heading on the right? Click on the latest release **which is v1.0b**, then under _Assets_, choose the ZIP folder that's right for you (win for Windows, mac for Mac, obviously). Download, unzip and you're ready to play!
 
 ## How it work doe? 🤔
 Almost every computer has a way of displaying text in a little window called a console. This just uses that combined with some (hopefully) clever game logic to do its thing.
