@@ -19,7 +19,8 @@ That's okay! See that folder called `json`? That contains three files, called `m
 ### Cool things you can do with moves
 - Moves can be unique to specific characters by setting `uniqueTo` for a move. That way, Russ gets a Sax Solo! 😎
 - Moves can cause self-damage too to really up the stakes!
-- As of v1.1, moves have properties now! I should write a guide for this eventually, but for now, try different moves out and see what happens...
+- Moves have properties! I should write a guide for this eventually, but for now, try different moves out and see what happens...
+- Likeable traits! As of v1.2, if a character likes or dislikes a trait that a move has, it can add more fun to the game!
 
 ### Cool things you can do with characters
 - Characters can have a win action or a win phrase which gets shown when they win. Simply give `winAction` or `winPhrase` (or both!) a value. _\*gives gun fingers\*_
